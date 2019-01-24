@@ -1,0 +1,23 @@
+{
+  "name": "simple-realm",
+  "version": "0.0.1",
+  "description": "A simple application of Realm",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ferdiemcdaniel/simple-realm.git"
+  },
+  "keywords": [
+    "realm",
+    "db"
+  ],
+  "author": "Ferdinand McDaniel A. Amano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ferdiemcdaniel/simple-realm/issues"
+  },
+  "homepage": "https://github.com/ferdiemcdaniel/simple-realm#readme"
+}
